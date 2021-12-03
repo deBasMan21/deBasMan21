@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Bas Buijsen and i am currently a software engineering student at Avans University Of Applied Siences Breda.
+
 
 <!--
 **deBasMan21/deBasMan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
