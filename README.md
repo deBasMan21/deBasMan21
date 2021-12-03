@@ -4,7 +4,7 @@ My name is Bas Buijsen and i am currently a software engineering student at Avan
 - 🔭 I’m currently working on ShareMyCar and Praktijk Hoogbegaafd
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me: bbuijsen@gmail.com
-<br/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deBasMan21&show_icons=true&theme=dark&count_private=true)
-<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deBasMan21&theme=dark&langs_count=10&layout=compact&hide=html,css)
