@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Bas Buijsen and i am currently a software engineering student at Avans University Of Applied Siences Breda.
+My name is Bas Buijsen and i am currently a software engineering student at Avans Breda.
 <br/>
 - I’m working on ShareMyCar and Praktijk Hoogbegaafd
 - I’m learning Angular
