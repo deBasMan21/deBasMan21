@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Bas Buijsen and i am currently a software engineering student at Avans Breda.
 <br/>
-- I’m working on BRESS
+- I’m working on ShareMyCar iOS and API
 - You can reach me via: bbuijsen@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deBasMan21&show_icons=true&theme=dark&count_private=true)
