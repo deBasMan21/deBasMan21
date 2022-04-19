@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Bas Buijsen and i am currently a software engineering student at Avans Breda.
 <br/>
-- I’m working on Praktijk Hoogbegaafd iOS (private repository)
+- I’m working on Praktijk Hoogbegaafd iOS and Android
 - I'm working on BRESS toernooiplanner
 - I'm working on ShareMyCar
 
