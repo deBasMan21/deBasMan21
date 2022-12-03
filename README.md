@@ -5,7 +5,7 @@ My name is Bas Buijsen. I am a software engineer (iOS) at Egeniq. And i am curre
 - I'm working on BRESS toernooiplanner
 - I’m working on Praktijk Hoogbegaafd iOS and Android
 
-I worked on a few different projects. I am mainly focussed on iOS mobile development. I created ShareMyCar and BRESS iOS apps and i am currently working on Praktijk Hoogbegaafd iOS. For these application i also created backends. I mostly work with .NET 6 for the backends but I am sufficiently skilled with node.js. If there are any questions about me or what I do you can always contact me with the information below. (Because of security or work in progress some repositories may be private)
+I worked on a few different projects. I am mainly focussed on iOS development. I created ShareMyCar, Praktijk Hoogbegaafd and BRESS iOS apps and i am currently working on MCUWidgets. For these application i also created backends. I mostly work with .NET 6 for the backends but I am sufficiently skilled with node.js. If there are any questions about me or what I do you can always contact me with the information below. (Because of security or work in progress some repositories may be private)
 
 - You can find me on [LinkedIn](https://www.linkedin.com/in/bas-buijsen-8a5ba5231/)
 - You can reach me via: bbuijsen@gmail.com
